@@ -1,0 +1,11 @@
+{
+  "name": "chai-backened",
+  "version": "1.0.0",
+  "description": "a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript,backend,cha"
+  },
+  "author": "",
+  "license": "ISC"
+}
